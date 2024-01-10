@@ -1,4 +1,4 @@
-#JUEGO DE LAS PIEDRAS
+# JUEGO DE LAS PIEDRAS
 
 Este juego consiste en quitar 2, 3 o 5 piedras por cada turno según sea oportuno, hasta que quede 1 o ninguna.
 Gana el jugador que deje 1 o ninguna pues no se podrá jugar más. 
